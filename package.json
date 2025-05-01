@@ -1,0 +1,13 @@
+{
+    "name": "web-server",
+    "version": "1.0.0",
+    "description": "nodejs web",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "express": "latest"
+    }
+}    
